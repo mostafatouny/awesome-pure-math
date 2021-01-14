@@ -12,7 +12,8 @@ ___
 - [Algebra](#algebra)
   - [Linear Algebra](#linear-algebra)
 - [Combinatorics](#combinatorics)
-- [Graph Theory](#graph-theory)
+  - [Graph Theory](#graph-theory)
+  - [Enumerative Combinatorics](#enumerative-combinatorics)
 - [Calculus](#calculus)
 - [Real Analysis](#real-analysis)
 - [Game Theory](#game-theory)
@@ -59,6 +60,10 @@ ___
 It is already curated [here](https://github.com/mostafatouny/awesome-theoretical-computer-science/blob/main/README.md#computability-theory).
 
 
+## Discrete Mathematics
+### Handbooks
+- Rosen. Handbook of Discrete and Combinatorial Mathematics
+
 
 ## Number Theory
 ### Introductory
@@ -85,17 +90,27 @@ It is already curated [here](https://github.com/mostafatouny/awesome-theoretical
 
 
 ## Combinatorics
-### Books
-- Rosen. Handbook of Discrete and Combinatorial Mathematics
+### General
+#### Introductory
+- Bona. Walk Through Combinatorics: An Introduction To Enumeration And Graph Theory
 
-
-
-## Graph Theory
-### Books
+### Graph Theory
+#### Books
 - Chartrand & Zhang. A First Course in Graph Theory
 - West. Introduction to Graph Theory
 - Diestel. Graph Theory
 - Gross, Yellen & Zhang, Handbook of Graph Theory
+
+#### Handbooks
+- Gross, Yellen & Zhang. Handbook of Graph Theory
+
+### Enumerative Combinatorics
+#### Introductory
+- Bona. Introduction to Enumerative and Analytic Combinatorics
+
+#### Handbooks
+- Bona. Handbook of Enumerative Combinatorics
+
 
 
 
