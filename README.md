@@ -40,6 +40,7 @@ ___
 #### Introductory
 ##### Books
 - Leary. A Friendly Introduction to Mathematical Logic
+- Mendelson. Introduction to Mathematical Logic
 - Enderton. A Mathematical Introduction to Logic
 
 #### Popular Science
