@@ -11,6 +11,7 @@ ___
 - [Number Theory](#number-theory)
 - [Algebra](#algebra)
   - [Linear Algebra](#linear-algebra)
+  - [Abstract Algebra](#abstract-algebra)
 - [Combinatorics](#combinatorics)
   - [Graph Theory](#graph-theory)
   - [Enumerative Combinatorics](#enumerative-combinatorics)
@@ -86,6 +87,11 @@ It is already curated [here](https://github.com/mostafatouny/awesome-theoretical
 - Halmos. Finite-Dimensional Vector Spaces
 - Shilov. Linear algebra. Dover Publications
 - Greub & Werner. Linear Algebra: Graduate Texts in Mathematics. Springer
+
+### Abstract Algebra
+#### Books
+- Whitelaw. Introduction to Abstract Algebra
+- Deskins. Abstract Algebra
 
 
 
