@@ -123,12 +123,9 @@ It is already curated [here](https://github.com/mostafatouny/awesome-theoretical
 
 ## Calculus
 ### Books
-- James Stewart. Calculus
-- Serge Lang. A First Course in Calculus
+- Thomas. Calculus
 - Rogawski. Calculus: Early Transcendentals
-- James Stewart. Calculus: Early Transcendentals
-- Nitecki. Calculus Deconstructed: A Second Course in First-year Calculus
-- Spivak. Calculus
+- Michael Spivak. Calculus
 - Apostol. Calculus
 
 
